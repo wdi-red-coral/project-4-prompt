@@ -5,6 +5,13 @@ Jamjoom Pharma Academy will be inaugurated in Octobor 2019.
 The courses will combine the latest text book knowledge with the actual on ground practice taught by industry experts.  
 The aim is to equip graduates with better skills to have a strong career path in their field of interest.
 
+## Current
+- Website: 
+- App Store: 
+- Instagram:
+- Snapchat: 
+- Twitter: 
+
 ## Pages
 
 #### 1. About Jamjoom Pharma
