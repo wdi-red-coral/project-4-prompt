@@ -1,5 +1,9 @@
 # Caocap
 
+## Company Description
+
+## Web Application Description
+
 "App that does everything"
 
 ## Current
