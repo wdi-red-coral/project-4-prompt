@@ -1,6 +1,6 @@
 # Badir Incubator Projects and Requirements
 
-Badir Incubator companies ihave invited YOU to build their MVP!
+Badir Incubator companies have invited YOU to build their MVP!
 
 ### 1. [Canary](badir-projects/canary.md)
 ### 2. [Caocap](badir-projects/caocap.md)
