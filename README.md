@@ -1,10 +1,10 @@
 # ![GA Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
 
-# Project #3: React Application
+# Project #4: Full Stack Application
 
 ## Overview:
 
-Your team will be creating a front end application using React.
+Your team will be creating a full stack application for a real business client!
 
 **You will be working as a team for this project**, everyone must contribute.  If 1 person does not contribute or 1 person does all the work then the entire team will fail the project requirements.  If you pair program then please include the other persons github name in the commit.
 
