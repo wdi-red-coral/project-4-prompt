@@ -1,4 +1,4 @@
-# Alsa Printing - Easy Print Service Providers
+# Easy Print Service Providers
 
 ## Company Description
 
