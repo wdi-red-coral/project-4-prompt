@@ -1,4 +1,4 @@
-# Alsa Printing - Easy Print Customers
+# Easy Print Customers
 
 ## Company Description
 
