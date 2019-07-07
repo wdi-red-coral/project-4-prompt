@@ -1,4 +1,4 @@
-# Easy Print Service Providers
+# Take Away SA - Easy Print Service Providers
 
 ## Company Description
 
