@@ -60,7 +60,8 @@ The presentation must be a **8-10 minute presentation** in which you answer the 
   
 ### Stretch Goals
 
->DO NOT attempt stretch goals until all MVP requirements have been met!
+- Mobile Responsive
+- High quality, professional design
 
 ---
   
