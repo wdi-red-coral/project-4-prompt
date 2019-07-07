@@ -1,5 +1,9 @@
 # Nala
 
+## Company Description
+
+## Web Application Description
+
 A platform for patients and doctors to communicate.
 
 ## Current
