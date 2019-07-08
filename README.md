@@ -37,11 +37,11 @@ By the time you submit this project, you will have covered new ground in, and re
 ## Requirements
 
 - **Build a full stack web application**.  Must be your own work.
+- **[Meet Badir Incubator Project Requirements](badir-projects.md)** for data storage, user functionality and design.
 - **Use technology stack templates**.  You may choose which tech stack.
   - [Rails Template](https://github.com/wdi-red-coral/rails-template)
   - [Rails API Template](https://github.com/wdi-red-coral/rails-api-template) with [React Template](https://github.com/wdi-red-coral/react-template)
   - [Express API Template](https://github.com/wdi-red-coral/express-api-template) with [React Template](https://github.com/wdi-red-coral/react-template)
-- **[Meet Badir Incubator Project Requirements](badir-projects.md)** for data storage, user functionality and design.
 - **Craft a `README.md` file that explains your app** to the Badir team for further development.
 
 ### Necessary Deliverables
