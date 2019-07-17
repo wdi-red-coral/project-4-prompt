@@ -20,6 +20,8 @@ Web site where applicants can learn about the program and apply.
 
 ## Pages
 
+[Web Site Flow](jpa-website.docx)
+
 #### 1. About Jamjoom Pharma
 #### 2. About JP Academy
 #### 3. Courses Offered
@@ -34,3 +36,5 @@ Web site where applicants can learn about the program and apply.
 ## Data Modeling
 
 ## Assets and Branding
+
+[Assets](jpa-guidelines.pdf)
